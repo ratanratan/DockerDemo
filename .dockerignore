@@ -1,0 +1,15 @@
+# Git repository history
+.git/
+
+# IDE configuration
+.idea/
+.vscode/
+*.iml
+
+# Environment files containing secrets
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
